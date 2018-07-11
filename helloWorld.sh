@@ -5,12 +5,12 @@
 # Script follow here:
 
 echo "Hello World !"
-# and you can use chmod +x ./file.sh not 'file.sh'
+# And you can use chmod +x ./file.sh not 'file.sh'
 
 echo "What is your name?"
 
 # read just like 'cin>>'' 
-#read PERSON
+read PERSON
 echo "Hello, $PERSON"
 
 
